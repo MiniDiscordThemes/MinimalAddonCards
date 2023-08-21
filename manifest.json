@@ -1,22 +1,20 @@
 {
-  "id": "net.saltssaumure.Template",
-  "name": "Template",
-  "description": "A template theme for multiple client mod support.",
-  "author": {
-    "name": "Saltssaumure",
-    "discordID": "134142022092062720",
-    "github": "Saltssaumure"
-  },
-  "version": "1.1.0",
-  "updater": {
-    "type": "store",
-    "id": "net.saltssaumure.Template"
-  },
-  "license": "MIT",
-  "type": "replugged-theme",
-  "main": "scss/temp.scss",
-  "source": "https://github.com/Saltssaumure/template-discord-theme",
-  "image": [
-    "https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png"
-  ]
+    "id": "net.saltssaumure.MinimalAddonCards",
+    "name": "MinimalAddonCards",
+    "description": "A minimal look for theme and plugin cards.",
+    "author": {
+        "name": "Saltssaumure",
+        "discordID": "134142022092062720",
+        "github": "Saltssaumure"
+    },
+    "version": "1.0.0",
+    "updater": {
+        "type": "store",
+        "id": "net.saltssaumure.MinimalAddonCards"
+    },
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "scss/cards.scss",
+    "source": "https://github.com/MiniDiscordThemes/MinimalAddonCards",
+    "image": ["https://cdn.discordapp.com/attachments/1142305515439923260/1143028644621594645/mac1.png"]
 }
