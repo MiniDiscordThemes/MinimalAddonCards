@@ -15,13 +15,13 @@
         margin: 0 !important;
     }
 
-    .flex-2S1XBF {
+    .flex_f5fbb7 {
         align-items: center;
         gap: 5px !important;
     }
 
     // Addon name
-    .heading-md-bold-3v5pnz {
+    .heading-md-bold__17daa {
         display: block;
     }
 
@@ -44,10 +44,10 @@
     }
 
     // Addon toggle
-    .container-1QtPKm {
+    .container__871ba {
         order: 3;
     }
-    &:not(:has([d^="M463.5 224"])) > .container-1QtPKm {
+    &:not(:has([d^="M463.5 224"])) > .container__871ba {
         margin-left: auto;
     }
 
@@ -60,10 +60,10 @@
     }
 
     // Addon warning for unofficial addons
-    &:hover .error-3GXRR- {
+    &:hover .error__98059 {
         visibility: visible;
     }
-    .error-3GXRR- {
+    .error__98059 {
         @include tooltip.full("bottom");
     }
 }
