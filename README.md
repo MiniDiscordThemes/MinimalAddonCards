@@ -1,5 +1,5 @@
-[screenshot-rp]:    https://cdn.discordapp.com/attachments/1142305515439923260/1143028644621594645/mac1.png
-[screenshot-vc]:    https://cdn.discordapp.com/attachments/1142305515439923260/1143028644869054615/mac2.png
+[screenshot-rp]:    https://i.imgur.com/iNjqoQZ.png
+[screenshot-vc]:    https://i.imgur.com/eb5De4k.png
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 [discord]:          https://discord.gg/uy8nKQVatp
