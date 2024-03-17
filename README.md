@@ -1,5 +1,6 @@
-[screenshot-rp]:    https://i.imgur.com/iNjqoQZ.png
-[screenshot-vc]:    https://i.imgur.com/eb5De4k.png
+[screenshot-bd]:    https://minidiscordthemes.github.io/MinimalAddonCards/preview/BetterDiscord.avif
+[screenshot-rp]:    https://minidiscordthemes.github.io/MinimalAddonCards/preview/Replugged.avif
+[screenshot-vc]:    https://minidiscordthemes.github.io/MinimalAddonCards/preview/Vencord.avif
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 [discord]:          https://discord.gg/uy8nKQVatp
@@ -25,6 +26,9 @@
 [release-bd-gh]:    https://github.com/MiniDiscordThemes/MinimalAddonCards/releases/latest/download/MinimalAddonCards.theme.css "Get latest release"
 [release-rp-gh]:    https://github.com/MiniDiscordThemes/MinimalAddonCards/releases/latest/download/net.saltssaumure.MinimalAddonCards.asar "Get latest release"
 
+[bdAddonMini]:          https://github.com/maenDisease/BetterDiscordStuff/blob/main/css/bdAddonMini.css
+[bdAddonMini-author]:   https://github.com/maenDisease
+
 # MinimalAddonCards Discord Theme
 [![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
 [![BetterDiscord GitHub downloads][shield-bd-dl]][release-bd-gh]
@@ -33,9 +37,9 @@
 
 ***A minimal look for theme and plugin cards.***
 
-| Replugged                                                            | Vencord                                                              |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![MinimalAddonCards applied to Replugged themes page][screenshot-rp] | ![Minimal Addon Cards applied to Vencord themes page][screenshot-vc] |
+| BetterDiscord                                                | Replugged                                                | Vencord                                                |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ |
+| ![MinimalAddonCards applied to BetterDiscord][screenshot-bd] | ![MinimalAddonCards applied to Replugged][screenshot-rp] | ![MinimalAddonCards applied to Vencord][screenshot-vc] |
 
 ## Installation
 
@@ -71,6 +75,9 @@
 ## License
 [MIT License][license]
 - <span title="Too long; didn't read; not a lawyer">TL;DR;NAL</span>: Do whatever you want with this theme, just include the original license.
+
+## Credits
+- Inspired by [Disease][bdAddonMini-author]'s [BD Addon Mini List][bdAddonMini].
 
 ## Questions or suggestions?
 - Post [an issue][issues] on GitHub.
