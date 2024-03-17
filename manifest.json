@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "scss/cards.scss",
+  "main": "scss/cards-rp-only.scss",
   "source": "https://github.com/MiniDiscordThemes/MinimalAddonCards",
   "image": [
     "https://i.imgur.com/iNjqoQZ.png"
