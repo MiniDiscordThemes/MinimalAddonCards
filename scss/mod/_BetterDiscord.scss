@@ -1,0 +1,73 @@
+@use "../top/vars" as *;
+@use "../top/tooltip";
+
+.bd-addon-list .bd-addon-card {
+    position: relative;
+    overflow: visible;
+
+    // Header
+    .bd-addon-header {
+        border-radius: 5px;
+
+        // Addon type icon
+        .bd-icon {
+            visibility: hidden;
+        }
+    }
+
+    // Description
+    &:hover .bd-description-wrap {
+        visibility: visible;
+    }
+    .bd-description-wrap {
+        @include tooltip.full;
+
+        .bd-description {
+            margin-bottom: 0;
+            padding: 0;
+            color: var(--text-normal);
+        }
+    }
+
+    // Footer
+    .bd-footer {
+        border-radius: 5px;
+        position: absolute;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        flex-direction: row-reverse;
+        padding-right: 16px + $toggle + 8px;
+
+        // Enable clicking through
+        pointer-events: none;
+
+        .bd-links,
+        .bd-controls {
+            pointer-events: initial;
+        }
+
+        // Links
+        .bd-links {
+            gap: 8px;
+
+            .bd-addon-button {
+                margin-left: 0;
+            }
+        }
+
+        // Controls
+        .bd-controls {
+            flex-direction: column;
+            height: 100%;
+            width: 24px;
+
+            .bd-addon-button {
+                height: 50%;
+                padding: 0 2px;
+                border-radius: 0;
+                opacity: 0.8;
+            }
+        }
+    }
+}

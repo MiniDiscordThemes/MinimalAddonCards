@@ -7,16 +7,16 @@
     "discordID": "134142022092062720",
     "github": "Saltssaumure"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "updater": {
     "type": "store",
     "id": "net.saltssaumure.MinimalAddonCards"
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "scss/cards.scss",
+  "main": "scss/cards-rp-only.scss",
   "source": "https://github.com/MiniDiscordThemes/MinimalAddonCards",
   "image": [
-    "https://cdn.discordapp.com/attachments/1142305515439923260/1143028644621594645/mac1.png"
+    "https://i.imgur.com/vYmO5L1.png"
   ]
 }
