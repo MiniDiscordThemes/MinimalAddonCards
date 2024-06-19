@@ -7,7 +7,7 @@
     "discordID": "134142022092062720",
     "github": "Saltssaumure"
   },
-  "version": "1.3.0",
+  "version": "1.3.1",
   "updater": {
     "type": "store",
     "id": "net.saltssaumure.MinimalAddonCards"
@@ -17,6 +17,6 @@
   "main": "scss/cards-rp-only.scss",
   "source": "https://github.com/MiniDiscordThemes/MinimalAddonCards",
   "image": [
-    "https://i.imgur.com/vYmO5L1.png"
+    "https://minidiscordthemes.github.io/MinimalAddonCards/preview/Replugged.avif"
   ]
 }
